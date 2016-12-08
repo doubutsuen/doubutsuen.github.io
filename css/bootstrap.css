@@ -60,7 +60,7 @@ dfn {
   font-style: italic;
 }
 h1 {
-  margin: .67em 0;
+  margin: .67em .5em 0 .5em;
   font-size: 2em;
 }
 mark {
@@ -1287,7 +1287,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 1.5em 10px 1.5em;
 }
 .lead {
   margin-bottom: 20px;
