@@ -64,6 +64,9 @@ h1 {
   margin: .67em .5em 0 .5em;
   font-size: 2em;
 }
+h2 {
+  margin: .67em .5em 0 .5em;
+}
 mark {
   color: #000;
   background: #ff0;
