@@ -13,6 +13,13 @@ html {
 body {
   margin: 0;
 }
+.github-btn {
+  float: right;
+  width: 150px;
+  height: 20px;
+  margin-top: 2px;
+  border: none;
+}
 article,
 aside,
 details,
